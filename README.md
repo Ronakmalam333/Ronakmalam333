@@ -1,6 +1,6 @@
 ﻿<img src="./assests//Banner.png"/>
 <h1 align="center">Hello There👋🏻 I’m Ronak Malam</h1>
-<h2 align="center">A Progressive MERN Developer Building Innovative Solutions</h2>
+<h3 align="center">A Progressive MERN Developer Building Innovative Solutions</h3>
 
 # 📝 About Me
 
