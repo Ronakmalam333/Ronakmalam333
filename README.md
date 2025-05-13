@@ -1,4 +1,4 @@
-﻿<img src="https://www.canva.com/design/DAGggCgo1xM/L5y40EadpjnS0LBLqhn2hw/view"/>
+﻿<img src="./assests/Banner.png">
 <h1 align="center">Hello There👋🏻 I’m Ronak Malam</h1>
 <h3 align="center">A Progressive MERN Developer Building Innovative Solutions</h3>
 
