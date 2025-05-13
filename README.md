@@ -10,7 +10,7 @@
 - <h3>📪 Want To Reach Me? <a href="mailto:itzronakmalam94@gmail.com">Email</a></h3>
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ronakmalam333&label=Profile%20views&color=0e75b6&style=flat" alt="Ronakmalam333" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ronakmalam333&label=Profile%20views&color=0e75b6&style=flat" alt="Ronakmalam333" /> </p>
 
 # ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
