@@ -96,22 +96,22 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Ronakmalam333&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Ronak's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Ronakmalam333&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Ronak's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Ronakmalam333&theme=dark&hide_border=false" alt="Ronak's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Ronakmalam333&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ronakmalam333&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ## 🔝 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Ronakmalam333/Attendance-Project">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Ronakmalam333&repo=Attendance-Project&theme=dark" alt="Attendance-Project" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ronakmalam333&repo=Attendance-Project&theme=dark" alt="Attendance-Project" />
   </a>
   <a href="https://github.com/Ronakmalam333/LeetCode-with-Python">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Ronakmalam333&repo=LeetCode-with-Python&theme=dark" alt="LeetCode-with-Python" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ronakmalam333&repo=LeetCode-with-Python&theme=dark" alt="LeetCode-with-Python" />
   </a>
 </p>
 
